@@ -1,0 +1,61 @@
+
+.dropdown1{
+    background-color: black;
+}
+
+h1, h2, h3, h4 {
+    color: #1e99f9
+}
+
+.ads-via {
+    font-size: 12px;
+    font-weight: lighter;
+
+}
+html {
+    scroll-behavior: smooth;
+    font-family: 'Segoe UI';
+
+/* .table-contents {
+    scroll-behavior: off;
+} */
+
+#s12 {
+    font-size: 20px;
+    font-weight: lighter;
+}
+#s6 {
+    font-size: 20px;
+    font-weight: lighter;
+}
+#s7 {
+    font-size: 10px;
+    color: aliceblue;
+    font-weight: lighter;
+}
+#s5 {
+    font-size: 10px;
+    font-weight: lighter;
+}
+.promo-1{
+    overflow: hidden;
+}
+
+.center {
+    text-align: center;
+    vertical-align: middle;
+}
+.promo i {
+    margin: 40px 0;
+    color: #1e99f9;
+    font-size: 7rem;
+    display: block;
+}
+.table-of-contents a.active {
+    font-weight: 500;
+    padding-left: 14px;
+    border-left: 2px solid #1e99f9;
+}
+ul.table-of-contents a.active {
+    color: black;
+}
